@@ -4,7 +4,7 @@ Convert an unsigned int to a string to print it.
 ## Description
 Print a certain a number. 
 
-Used to learn macro function, loop, stack and assembly logic (without C library).
+Used to learn macro function, loop, stack and assembly logic *[which is full commented]* (without C library).
 
 ## Configuration used 
 - Distribution : Linux
